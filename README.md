@@ -2,7 +2,7 @@
 
 ![SignMaker Preview Thumbnail](https://repository-images.githubusercontent.com/203719668/9e0b3000-6151-11ea-8adb-d5824ff3f5e3)
 
-A JavaScript-based app for creating highway guide signs. Based off of [Kurumi's Sign Maker](http://www.kurumi.com/roads/signmaker). Allows for the creation of highway guide signs in the style defined by the United States FHWA in their [MUTCD](https://mutcd.fhwa.dot.gov/kno_2009r1r2.htm).
+Modified Versoin of Dki's Sign Maker, a JavaScript-based app for creating highway guide signs. Based off of [Kurumi's Sign Maker](http://www.kurumi.com/roads/signmaker). Allows for the creation of highway guide signs in the style defined by the United States FHWA in their [MUTCD](https://mutcd.fhwa.dot.gov/kno_2009r1r2.htm).
 
 ## Acknowledgements
 
